@@ -1,0 +1,14 @@
+#form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+#form div{
+  margin-bottom: 10px;
+}
+.error-border{
+  border: 2px solid red;
+}
