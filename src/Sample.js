@@ -1,1 +1,3 @@
-let city=null;
+
+let city="chennai"
+
